@@ -1,0 +1,15 @@
+F:\code\CRM\Server\CRM.Application\bin\Debug\net6.0\CRM.Application.deps.json
+F:\code\CRM\Server\CRM.Application\bin\Debug\net6.0\CRM.Application.dll
+F:\code\CRM\Server\CRM.Application\bin\Debug\net6.0\CRM.Application.pdb
+F:\code\CRM\Server\CRM.Application\bin\Debug\net6.0\CRM.Domain.dll
+F:\code\CRM\Server\CRM.Application\bin\Debug\net6.0\CRM.Domain.pdb
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\CRM.Application.csproj.AssemblyReference.cache
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\CRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\CRM.Application.AssemblyInfoInputs.cache
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\CRM.Application.AssemblyInfo.cs
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\CRM.Application.csproj.CoreCompileInputs.cache
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\CRM.Application.dll
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\refint\CRM.Application.dll
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\CRM.Application.pdb
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\ref\CRM.Application.dll
+F:\code\CRM\Server\CRM.Application\obj\Debug\net6.0\CRM.Application.csproj.CopyComplete
