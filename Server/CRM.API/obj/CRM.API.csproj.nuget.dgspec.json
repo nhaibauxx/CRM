@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "F:\\code\\CRM\\Server\\CRM.API\\CRM.API.csproj": {}
+    "D:\\CRM\\CRM\\Server\\CRM.API\\CRM.API.csproj": {}
   },
   "projects": {
-    "F:\\code\\CRM\\Server\\CRM.API\\CRM.API.csproj": {
+    "D:\\CRM\\CRM\\Server\\CRM.API\\CRM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\code\\CRM\\Server\\CRM.API\\CRM.API.csproj",
+        "projectUniqueName": "D:\\CRM\\CRM\\Server\\CRM.API\\CRM.API.csproj",
         "projectName": "CRM.API",
-        "projectPath": "F:\\code\\CRM\\Server\\CRM.API\\CRM.API.csproj",
-        "packagesPath": "C:\\Users\\vietnhh\\.nuget\\packages\\",
-        "outputPath": "F:\\code\\CRM\\Server\\CRM.API\\obj\\",
+        "projectPath": "D:\\CRM\\CRM\\Server\\CRM.API\\CRM.API.csproj",
+        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
+        "outputPath": "D:\\CRM\\CRM\\Server\\CRM.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietnhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\code\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
-                "projectPath": "F:\\code\\CRM\\Server\\CRM.Application\\CRM.Application.csproj"
+              "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
+                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj"
               },
-              "F:\\code\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj": {
-                "projectPath": "F:\\code\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj"
+              "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj": {
+                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj"
               }
             }
           }
@@ -81,36 +79,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.420\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\code\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
+    "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\code\\CRM\\Server\\CRM.Application\\CRM.Application.csproj",
+        "projectUniqueName": "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj",
         "projectName": "CRM.Application",
-        "projectPath": "F:\\code\\CRM\\Server\\CRM.Application\\CRM.Application.csproj",
-        "packagesPath": "C:\\Users\\vietnhh\\.nuget\\packages\\",
-        "outputPath": "F:\\code\\CRM\\Server\\CRM.Application\\obj\\",
+        "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj",
+        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
+        "outputPath": "D:\\CRM\\CRM\\Server\\CRM.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietnhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\code\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
-                "projectPath": "F:\\code\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj"
+              "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
+                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj"
               }
             }
           }
@@ -150,28 +146,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.420\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\code\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
+    "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\code\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj",
+        "projectUniqueName": "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj",
         "projectName": "CRM.Domain",
-        "projectPath": "F:\\code\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj",
-        "packagesPath": "C:\\Users\\vietnhh\\.nuget\\packages\\",
-        "outputPath": "F:\\code\\CRM\\Server\\CRM.Domain\\obj\\",
+        "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj",
+        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
+        "outputPath": "D:\\CRM\\CRM\\Server\\CRM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietnhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -211,39 +205,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.420\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\code\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj": {
+    "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\code\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj",
+        "projectUniqueName": "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj",
         "projectName": "CRM.Infrastructure",
-        "projectPath": "F:\\code\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\vietnhh\\.nuget\\packages\\",
-        "outputPath": "F:\\code\\CRM\\Server\\CRM.Infrastructure\\obj\\",
+        "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
+        "outputPath": "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietnhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\code\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
-                "projectPath": "F:\\code\\CRM\\Server\\CRM.Application\\CRM.Application.csproj"
+              "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
+                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj"
               },
-              "F:\\code\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
-                "projectPath": "F:\\code\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj"
+              "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
+                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj"
               }
             }
           }
@@ -285,7 +277,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.420\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
         }
       }
     }
