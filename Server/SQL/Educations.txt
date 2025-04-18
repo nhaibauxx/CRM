@@ -1,4 +1,4 @@
-CREATE TABLE Educations (
+CREATE TABLE Educations (--xxx
     Id INT PRIMARY KEY IDENTITY,
     EmployeeId INT NOT NULL,
     [EducationsLevelId] INT,
