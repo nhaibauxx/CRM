@@ -1,36 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CRM\\CRM\\Server\\CRM.API\\CRM.API.csproj": {}
+    "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.API\\CRM.API.csproj": {}
   },
   "projects": {
-    "D:\\CRM\\CRM\\Server\\CRM.API\\CRM.API.csproj": {
+    "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.API\\CRM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRM\\CRM\\Server\\CRM.API\\CRM.API.csproj",
+        "projectUniqueName": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.API\\CRM.API.csproj",
         "projectName": "CRM.API",
-        "projectPath": "D:\\CRM\\CRM\\Server\\CRM.API\\CRM.API.csproj",
-        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
-        "outputPath": "D:\\CRM\\CRM\\Server\\CRM.API\\obj\\",
+        "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.API\\CRM.API.csproj",
+        "packagesPath": "C:\\Users\\lent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
-                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj"
+              "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
+                "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Application\\CRM.Application.csproj"
               },
-              "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj": {
-                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj"
+              "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj"
               }
             }
           }
@@ -39,7 +45,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -71,6 +83,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -79,34 +109,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
+    "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj",
+        "projectUniqueName": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Application\\CRM.Application.csproj",
         "projectName": "CRM.Application",
-        "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj",
-        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
-        "outputPath": "D:\\CRM\\CRM\\Server\\CRM.Application\\obj\\",
+        "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Application\\CRM.Application.csproj",
+        "packagesPath": "C:\\Users\\lent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
-                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj"
+              "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
+                "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj"
               }
             }
           }
@@ -115,7 +151,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -141,31 +183,51 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
+    "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj",
         "projectName": "CRM.Domain",
-        "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj",
-        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
-        "outputPath": "D:\\CRM\\CRM\\Server\\CRM.Domain\\obj\\",
+        "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj",
+        "packagesPath": "C:\\Users\\lent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -178,7 +240,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -200,42 +268,62 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj": {
+    "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj",
         "projectName": "CRM.Infrastructure",
-        "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
-        "outputPath": "D:\\CRM\\CRM\\Server\\CRM.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Infrastructure\\CRM.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
-                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Application\\CRM.Application.csproj"
+              "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Application\\CRM.Application.csproj": {
+                "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Application\\CRM.Application.csproj"
               },
-              "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
-                "projectPath": "D:\\CRM\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj"
+              "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj": {
+                "projectPath": "C:\\Users\\lent\\Downloads\\Workbase\\svn_checkout\\xx\\CRM\\Server\\CRM.Domain\\CRM.Domain.csproj"
               }
             }
           }
@@ -244,7 +332,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -272,12 +366,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
